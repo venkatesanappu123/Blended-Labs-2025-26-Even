@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: VENKATESAN R
+* **Register Number**: 212224230299
+* **Date of Submission**: 17/08/2026
 
 ---
 
@@ -83,15 +83,7 @@ Install and start a web server (Apache HTTPD) on the EC2 instance using user dat
 
 Create a simple HTML page and verify that it can be accessed from a web browser using the public IP address of the instance.---
 
-## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
 
 ---
 
@@ -99,13 +91,24 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 133257" src="https://github.com/user-attachments/assets/402e918b-781b-44d3-9c46-5050cd694b3a" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 133607" src="https://github.com/user-attachments/assets/af423792-e1c1-4f21-8956-a315ef765e16" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 133626" src="https://github.com/user-attachments/assets/3685e680-35be-4718-bb9f-09db5b0ac1b5" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 134327" src="https://github.com/user-attachments/assets/c3dfbb20-c9f5-40cb-9fac-8844e401324e" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-17 134453" src="https://github.com/user-attachments/assets/64926fe3-d4c5-4e7d-a59b-e194a4f648e5" />
+
+
+
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1079" alt="Screenshot 2026-08-17 140048" src="https://github.com/user-attachments/assets/05dfee52-4e12-49c7-a90f-c4771246f896" />
 
 ---
 
